@@ -1,0 +1,65 @@
+Starting migrations...
+======================
+> Network name:    'develop'
+> Network id:      5777
+> Block gas limit: 6721975 (0x6691b7)
+
+
+1_initial_migration.js
+======================
+
+   Replacing 'Migrations'
+   ----------------------
+   > transaction hash:    0x8c2d1337a6e45e5b3f29008607266b7b9de51424f75834aa3cc6ee83013b3bb9
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xd0CeD75161501FD65DE954085F1DC9DD3EA33536
+   > block number:        1
+   > block timestamp:     1640650143
+   > account:             0x2094053478140d0b9d8984387288eE5F5F154A45
+   > balance:             99.99945356
+   > gas used:            273220 (0x42b44)
+   > gas price:           2 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00054644 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00054644 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Replacing 'StarNotary'
+   ----------------------
+   > transaction hash:    0x69d623c57e93fb56586b4e68da54627bb420d1b78ccdf06e2c4451163a64c5e6
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x330cC0Cb2c0d8e850e3728C2Cad575fdd8eCA8D3
+   > block number:        3
+   > block timestamp:     1640650144
+   > account:             0x2094053478140d0b9d8984387288eE5F5F154A45
+   > balance:             99.993926052
+   > gas used:            2721216 (0x2985c0)
+   > gas price:           2 gwei
+   > value sent:          0 ETH
+   > total cost:          0.005442432 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:         0.005442432 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.005988872 ETH
+
+
+- Blocks: 0            Seconds: 0
+- Saving migration to chain.
+- Blocks: 0            Seconds: 0
+- Saving migration to chain.
